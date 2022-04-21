@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="justify">
-  <img src="https://github-readme-stats.vercel.app/api?username=cnlangzi&show_icons=true&theme=solarized-light" alt="cnlangzi" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cnlangzi&show_icons=true&theme=vue" alt="cnlangzi" />
 </p>
