@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
+<p align="justify">
   <img src="https://github-readme-stats.vercel.app/api?username=cnlangzi&show_icons=true&theme=solarized-light" alt="cnlangzi" />
 </p>
