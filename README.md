@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="justify">
-  <img src="https://github-readme-stats.vercel.app/api?username=cnlangzi&show_icons=true&theme=vue" alt="cnlangzi" />
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cnlangzi&show_icons=true&theme=vue" alt="cnlangzi" />
+  <img width="48%" src="https://streak-stats.demolab.com/demo/preview.php?user=cnlangzi&theme=vue" />
 </p>
