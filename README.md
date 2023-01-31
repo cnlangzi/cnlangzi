@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <span width="45%" ><img src="https://github-readme-stats.vercel.app/api?username=cnlangzi&show_icons=true&theme=vue-dark" alt="cnlangzi" /></span>
-  <span width="45%" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=cnlangzi&theme=vue-dark" /></span>
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=cnlangzi&show_icons=true&theme=vue-dark" alt="cnlangzi" />
+  <img width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=cnlangzi&theme=vue-dark" />
 </p>
 <!--
 <p align="center">
