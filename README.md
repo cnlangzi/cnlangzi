@@ -16,12 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=cnlangzi&show_icons=true&theme=vue-dark" alt="cnlangzi" />
-  <img width="46%" src="https://streak-stats.demolab.com?user=cnlangzi&theme=vue-dark" alt="GitHub Streak" />
-</p>
-<!--
-<p align="center">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cnlangzi&layout=compact&theme=vue-dark"/>
-</p>
--->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cnlangzi" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cnlangzi&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+
