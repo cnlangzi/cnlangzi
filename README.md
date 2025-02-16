@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img width="46%" src="https://github-readme-stats.vercel.app/api?username=cnlangzi&show_icons=true&theme=vue-dark" alt="cnlangzi" />
-  <img width="46%" src="[![GitHub Streak](https://streak-stats.demolab.com/?user=cnlangzi)](https://git.io/streak-stats)" />
+  <img width="46%" src="https://streak-stats.demolab.com?user=cnlangzi&theme=vue-dark" alt="GitHub Streak" />
 </p>
 <!--
 <p align="center">
